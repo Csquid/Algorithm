@@ -26,3 +26,10 @@ printf("Hello\nWorld");
 ** 주의 : 본 화면에서 복사하여 붙여넣기하면 제대로 되지 않을 수 있으니 직접 소스코드를 작성해 넣어야한다.
 
 */
+
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello\nWorld");
+}
